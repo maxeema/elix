@@ -1,8 +1,8 @@
 # Maxeem
 
-**Raxx + Redix assignment**
+**Elixir / Raxx / Redix**
 
-[assignment.pdf]("./assignment.pdf")
+[assignment.pdf](./assignment.pdf)
 
 # start Redis
 ~~~text
