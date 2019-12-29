@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="ace" type="mix">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/_build/dev/lib/ace/ebin" />
+      <root url="file://$PROJECT_DIR$/_build/test/lib/ace/ebin" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/deps/ace/lib" />
+    </SOURCES>
+  </library>
+</component>

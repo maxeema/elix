@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="32e51f8b-cb10-41f6-8777-6bd29d18fa3f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="CLEAR_OUTPUT_DIRECTORY" value="false" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="ProjectId" id="1VYbYgzGDQ9feRGDSVDFmJzNGvY" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/test" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/lib" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/test" />
+      <recent name="$PROJECT_DIR$/lib" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Mix ExUnit test" type="MixExUnitRunConfigurationType" factoryName="Elixir Mix ExUnit" temporary="true">
+      <mix-test>
+        <argument>test</argument>
+      </mix-test>
+      <working-directory url="file://$PROJECT_DIR$" />
+      <module-filters inherit-application-module-filters="true" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Elixir Mix ExUnit.Mix ExUnit test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="32e51f8b-cb10-41f6-8777-6bd29d18fa3f" name="Default Changelist" comment="" />
+      <created>1577433024841</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577433024841</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="278" y="42" width="800" height="684" key="#Project_Structure" timestamp="1577487620702">
+      <screen x="0" y="27" width="1366" height="708" />
+    </state>
+    <state x="278" y="42" width="800" height="684" key="#Project_Structure/0.27.1366.708@0.27.1366.708" timestamp="1577487620702" />
+    <state x="141" y="39" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1577614708680">
+      <screen x="0" y="27" width="1366" height="708" />
+    </state>
+    <state x="141" y="39" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.27.1366.708@0.27.1366.708" timestamp="1577614708680" />
+    <state x="396" y="185" width="563" height="398" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1577564259059">
+      <screen x="0" y="27" width="1366" height="708" />
+    </state>
+    <state x="396" y="185" width="563" height="398" key="#com.intellij.fileTypes.FileTypeChooser/0.27.1366.708@0.27.1366.708" timestamp="1577564259059" />
+    <state x="461" y="142" width="424" height="491" key="FileChooserDialogImpl" timestamp="1577507275995">
+      <screen x="0" y="27" width="1366" height="708" />
+    </state>
+    <state x="461" y="142" width="424" height="491" key="FileChooserDialogImpl/0.27.1366.708@0.27.1366.708" timestamp="1577507275995" />
+    <state width="1320" height="336" key="GridCell.Tab.0.bottom" timestamp="1577618930245">
+      <screen x="0" y="27" width="1366" height="708" />
+    </state>
+    <state width="1320" height="336" key="GridCell.Tab.0.bottom/0.27.1366.708@0.27.1366.708" timestamp="1577618930245" />
+    <state width="1320" height="336" key="GridCell.Tab.0.center" timestamp="1577618930245">
+      <screen x="0" y="27" width="1366" height="708" />
+    </state>
+    <state width="1320" height="336" key="GridCell.Tab.0.center/0.27.1366.708@0.27.1366.708" timestamp="1577618930245" />
+    <state width="1320" height="336" key="GridCell.Tab.0.left" timestamp="1577618930244">
+      <screen x="0" y="27" width="1366" height="708" />
+    </state>
+    <state width="1320" height="336" key="GridCell.Tab.0.left/0.27.1366.708@0.27.1366.708" timestamp="1577618930244" />
+    <state width="1320" height="336" key="GridCell.Tab.0.right" timestamp="1577618930245">
+      <screen x="0" y="27" width="1366" height="708" />
+    </state>
+    <state width="1320" height="336" key="GridCell.Tab.0.right/0.27.1366.708@0.27.1366.708" timestamp="1577618930245" />
+    <state x="166" y="27" width="1024" height="708" key="SettingsEditor" timestamp="1577491460255">
+      <screen x="0" y="27" width="1366" height="708" />
+    </state>
+    <state x="166" y="27" width="1024" height="708" key="SettingsEditor/0.27.1366.708@0.27.1366.708" timestamp="1577491460255" />
+    <state x="343" y="208" key="com.intellij.ide.util.TipDialog" timestamp="1577586186200">
+      <screen x="0" y="27" width="1366" height="708" />
+    </state>
+    <state x="343" y="208" key="com.intellij.ide.util.TipDialog/0.27.1366.708@0.27.1366.708" timestamp="1577586186200" />
+    <state x="249" y="27" width="857" height="708" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1577618304202">
+      <screen x="0" y="27" width="1366" height="708" />
+    </state>
+    <state x="249" y="27" width="857" height="708" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.27.1366.708@0.27.1366.708" timestamp="1577618304202" />
+    <state x="254" y="73" width="857" height="616" key="find.popup" timestamp="1577587927683">
+      <screen x="0" y="27" width="1366" height="708" />
+    </state>
+    <state x="254" y="73" width="857" height="616" key="find.popup/0.27.1366.708@0.27.1366.708" timestamp="1577587927683" />
+    <state x="4" y="107" width="1347" height="555" key="new project wizard" timestamp="1577586126267">
+      <screen x="0" y="27" width="1366" height="708" />
+    </state>
+    <state x="4" y="107" width="1347" height="555" key="new project wizard/0.27.1366.708@0.27.1366.708" timestamp="1577586126267" />
+    <state x="332" y="96" width="700" height="530" key="recent.locations.popup" timestamp="1577480143838">
+      <screen x="0" y="27" width="1366" height="708" />
+    </state>
+    <state x="332" y="96" width="700" height="530" key="recent.locations.popup/0.27.1366.708@0.27.1366.708" timestamp="1577480143838" />
+    <state x="347" y="166" key="run.anything.popup" timestamp="1577558091039">
+      <screen x="0" y="27" width="1366" height="708" />
+    </state>
+    <state x="347" y="166" key="run.anything.popup/0.27.1366.708@0.27.1366.708" timestamp="1577558091039" />
+    <state x="346" y="56" width="672" height="678" key="search.everywhere.popup" timestamp="1577585326977">
+      <screen x="0" y="27" width="1366" height="708" />
+    </state>
+    <state x="346" y="56" width="672" height="678" key="search.everywhere.popup/0.27.1366.708@0.27.1366.708" timestamp="1577585326977" />
+  </component>
+</project>

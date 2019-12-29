@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="hpack" type="mix">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/_build/dev/lib/hpack/ebin" />
+      <root url="file://$PROJECT_DIR$/_build/test/lib/hpack/ebin" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/deps/hpack/src" />
+    </SOURCES>
+  </library>
+</component>
