@@ -1,6 +1,6 @@
 # Elix
 
-**Elixir / Raxx / Redix**
+Complete **Elixir / Raxx / Redix** test assignment
 
 [assignment.pdf](./assignment.pdf)
 
