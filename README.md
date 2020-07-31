@@ -1,4 +1,4 @@
-# Maxeem
+# Elix
 
 **Elixir / Raxx / Redix**
 
@@ -10,7 +10,7 @@ $ redis-server // tested on Redis 5.0.7
 ~~~
 # get app
 ~~~text
-$ git clone https://github.com/maxeema/maxeem && cd maxeem
+$ git clone https://github.com/maxeema/elix && cd elix
 ~~~
 # test app
 ~~~text
